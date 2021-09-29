@@ -1,0 +1,18 @@
+.cardStyle {
+  width: 22rem;
+  color: black;
+  height: 350px;
+  box-shadow: '2px 2px 2px 1px rgba(0, 0, 0, 0.2)';
+}
+
+.imgStyle {
+  height: 200px;
+}
+
+.cardBody {
+  height: 200px;
+}
+
+.cardFont {
+  font-size: 1rem;
+}

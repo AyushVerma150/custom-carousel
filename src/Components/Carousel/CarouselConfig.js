@@ -51,11 +51,11 @@ export const params = {
     },
     720: {
       slidesPerView: 1,
-      spaceBetween: 10,
+      spaceBetween: 30,
     },
     540: {
       slidesPerView: 1,
-      spaceBetween: 10,
+      spaceBetween: 30,
     },
   },
 };
